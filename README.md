@@ -1,75 +1,32 @@
-![Salah — From idea to working product](https://raw.githubusercontent.com/isws-png/isws-png/main/header.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/isws-png/isws-png/main/header.svg" width="100%" alt="Salah — From idea to working product" />
+</p>
 
 <div align="center">
 
-# Salah
-### Building useful products, from idea to implementation.
-**Web applications · E-commerce · Workflow automation**
+### I turn business needs into practical digital products.
+Web applications &nbsp; / &nbsp; E-commerce &nbsp; / &nbsp; Workflow automation
 
-I turn business needs into clear, practical digital experiences.
-
-[Explore public repositories](https://github.com/isws-png?tab=repositories)
+**[Explore my public repositories →](https://github.com/isws-png?tab=repositories)**
 
 </div>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/isws-png/isws-png/main/capabilities.svg" width="100%" alt="Four illustrated capability cards: web products; commerce and operations; integrations and automation; AI-assisted development. Technology toolbox: TypeScript, JavaScript, Next.js, NestJS, PostgreSQL, Prisma, Docker, GitHub Actions." />
+</p>
 
-## What I work on
+<details>
+<summary><b>More about my work and tools</b></summary>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I work across customer-facing applications, backend services, administrative tools and connected workflows. I use AI coding tools within an iterative process of planning, implementation and review.
 
-### 01 / Web products
-Full-stack web applications that connect customer-facing experiences with the tools teams use behind the scenes.
+- **Frontend:** TypeScript, JavaScript, Next.js
+- **Backend:** Node.js, NestJS, Fastify
+- **Data:** PostgreSQL, Prisma
+- **Workflow and quality:** Git, GitHub Actions, Docker, pnpm, Vitest
 
-**Focus:** interfaces, APIs, dashboards and shared application logic.
+Much of my work lives in private repositories. Public forks retain attribution to their original authors.
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 02 / Commerce & operations
-Digital storefronts and administrative tools built around everyday business workflows.
-
-**Focus:** product experiences, staff workflows and operational visibility.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 / Integrations & automation
-Connecting services and reducing repetitive work through API integrations and automated workflows.
-
-**Focus:** messaging, webhooks and connected systems.
-
-</td>
-<td width="50%" valign="top">
-
-### 04 / AI-assisted development
-Using AI coding tools as part of an iterative development workflow, from planning and implementation to review.
-
-**Focus:** clear requirements, structured iteration and maintainable outcomes.
-
-</td>
-</tr>
-</table>
-
-## Technologies in my projects
-
-| Layer | Tools |
-| :--- | :--- |
-| Frontend | **TypeScript · JavaScript · Next.js** |
-| Backend | **Node.js · NestJS · Fastify** |
-| Data | **PostgreSQL · Prisma** |
-| Workflow & quality | **Git · GitHub Actions · Docker · pnpm · Vitest** |
-
-## How I approach building
-
-**Understand the workflow → Define the scope → Build → Review → Refine**
-
-I care about the connection between a business need, the user experience and the system that supports it.
-
----
-
-<sub>Much of my work lives in private repositories. This profile shares my areas of focus and technology stack; public forks retain attribution to their original authors.</sub>
+<sub>Illustrations represent areas of work, not screenshots of released products.</sub>
