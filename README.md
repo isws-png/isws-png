@@ -7,7 +7,6 @@
 ### I turn business needs into practical digital products.
 Web applications &nbsp; / &nbsp; E-commerce &nbsp; / &nbsp; Workflow automation
 
-**[Explore my public repositories →](https://github.com/isws-png?tab=repositories)**
 
 </div>
 
