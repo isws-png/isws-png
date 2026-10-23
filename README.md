@@ -1,12 +1,12 @@
-![Salah — From idea to working product](header.svg)
+![Salah — From idea to working product](https://raw.githubusercontent.com/isws-png/isws-png/main/header.svg)
 
 <div align="center">
 
-# Salah · صلاح
+# Salah
 ### Building useful products, from idea to implementation.
 **Web applications · E-commerce · Workflow automation**
 
-أحوّل الأفكار واحتياجات العمل إلى منتجات رقمية واضحة وعملية.
+I turn business needs into clear, practical digital experiences.
 
 [Explore public repositories](https://github.com/isws-png?tab=repositories)
 
@@ -69,13 +69,6 @@ Using AI coding tools as part of an iterative development workflow, from plannin
 **Understand the workflow → Define the scope → Build → Review → Refine**
 
 I care about the connection between a business need, the user experience and the system that supports it.
-
-<div dir="rtl">
-
-### نبذة بالعربية
-أعمل على تطوير تطبيقات الويب والمتاجر الإلكترونية ولوحات التحكم وأتمتة الإجراءات. أجمع بين فهم احتياج العمل وبناء الواجهات والخدمات الخلفية، وأستفيد من أدوات الذكاء الاصطناعي ضمن عملية تطوير ومراجعة مستمرة.
-
-</div>
 
 ---
 
