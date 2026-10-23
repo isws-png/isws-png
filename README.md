@@ -1,3 +1,5 @@
+![Salah — From idea to working product](header.svg)
+
 <div align="center">
 
 # Salah · صلاح
